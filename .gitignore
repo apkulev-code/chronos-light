@@ -1,0 +1,11 @@
+# Виртуальные окружения и кэш Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Служебные файлы Visual Studio
+.vs/
+*.pyproj.user
+bin/
+obj/
